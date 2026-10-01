@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Update pnpm to 11.27.1, Rolldown to 1.2.10, Vite to 8.3.0, and the Go workflow validator's doublestar dependency while preserving the seven-day dependency cooldown and Node 22 runtime floor.
+
 ## 0.1.29 - 2026-10-01
 
 **Highlights:** Slack QA can bind signed future Gateway callbacks through the public adapter without replaying stored history, while one destination retains callback lifecycle ownership.
